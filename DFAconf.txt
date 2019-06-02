@@ -1,0 +1,3 @@
+pocetno stanje = 0
+zavrsna stanja = 1
+funkcija tranzicije = 0 1 1 2 2 0
